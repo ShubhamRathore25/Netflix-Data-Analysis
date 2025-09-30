@@ -14,7 +14,8 @@ Dataset
   - Duration
   - Category & Genre (Type)
  
-  - Features of the Analysis
+  
+Features of the Analysis
 The notebook answers various questions about the dataset, including:
 
 - View top and bottom records of the dataset
